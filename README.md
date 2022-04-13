@@ -1,2 +1,5 @@
-# Ada-Lovelace
-![image](https://user-images.githubusercontent.com/69724530/130485145-8e7e12de-0384-4f6d-98a1-d0a2e624c81d.png)
+# Ada Lovelace
+'S WERELDS EERSTE COMPUTERPROGRAMMEUR
+
+![image](https://user-images.githubusercontent.com/69724530/163168443-fa4735d6-ee5b-422a-a7be-b8b4ac397c08.png)
+
