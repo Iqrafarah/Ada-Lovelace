@@ -262,7 +262,6 @@ display: grid;
     margin-left: 500px;
     font-family: arial;
 }
-
 /* Media queries */
 @media (max-width: 480px) {
     .intro1{
@@ -278,8 +277,22 @@ display: grid;
     .grid {
         margin-top: 400px;
     }
-    .center-img {
-        width: 330px;
-        margin-left: 30px;
+    .center-img img{
+        align-items: center;
+        width: 400px;
+        margin-left: -200px;
+        margin-top: 220px;
+        margin-bottom: -200px;
+    }
+    .center-img3 img{
+        align-items: center;
+        width: 400px;
+        margin-left: -145px;
+        margin-top: 220px;
+    }
+    .video {
+        width: 360px;
+        height: 300px;
+        margin-left: 5px;
     }
 }
